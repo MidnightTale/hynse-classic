@@ -14,11 +14,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: wherethehellimat
+
+    - name: Debug Repository Contents
       run: |
-        ls
+        ls -R
         echo "---"
         cd ../hynse-classic/
+        ls -R
 
     - name: Install dependencies
       run: |
