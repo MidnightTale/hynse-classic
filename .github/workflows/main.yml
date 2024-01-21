@@ -14,7 +14,15 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-
+    - name: Set up curl
+      run: |
+        apt install curl
+    - name: Get files
+      run: |
+        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/requirements.txt
+        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/waystones.json
+        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/markdowncon.py
+        
     - name: Debug Repository Contents
       run: |
         ls -R $GITHUB_WORKSPACE
