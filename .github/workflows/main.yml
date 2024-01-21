@@ -18,14 +18,8 @@ jobs:
       with:
         python-version: 3.8
 
-    - name: Install curl
-      run: sudo apt-get update && sudo apt-get install -y curl
-
-    - name: Get files
-      run: |
-        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/requirements.txt
-        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/waystones.json
-        curl -OL https://raw.githubusercontent.com/MidnightTale/hynse-classic/main/markdowncon.py
+    - name: Install update
+      run: sudo apt-get update && sudo rm -rf ./waystones.md
 
     - name: Debug Repository Contents
       run: |
@@ -41,3 +35,12 @@ jobs:
 
     - name: Run Waystones Conversion
       run: python markdowncon.py
+      
+    - name: Clean up
+      run: sudo rm -rf ./cache
+      
+    - name: Upload Waystones.md as artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: waystones-artifact
+        path: ./waystones.md
