@@ -18,10 +18,7 @@ jobs:
       run: |
         ls
         echo "---"
-        ls ../
-        echo "---"
-        ls ../..
-        echo "---"
+        cd ./hynse-classic/
 
     - name: Install dependencies
       run: |
