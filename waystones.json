@@ -1,0 +1,1175 @@
+[
+  {
+    "pos": {
+      "x": -4083,
+      "y": 144,
+      "z": -2774,
+      "world": "world"
+    },
+    "name": "White House",
+    "id": "waystone-e3e6f918-bdbb-4ecf-9aab-5745a09319af",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": 6710,
+      "y": 71,
+      "z": -5023,
+      "world": "world"
+    },
+    "name": "Starsation Village ✦",
+    "id": "waystone-1f25ca78-0f66-40d8-8bd2-c2a201a2f676",
+    "owner": "29cefacd-7de2-4674-ad9f-16100edf6e2f",
+    "rngBlock": "TRIDENT"
+  },
+  {
+    "pos": {
+      "x": -5850,
+      "y": 73,
+      "z": -1478,
+      "world": "world"
+    },
+    "name": "SeVeN",
+    "id": "waystone-16ee79ce-a97a-4949-9ac9-bc09d3464143",
+    "owner": "779f16b5-4e52-4d99-9f1d-052b54b6126e"
+  },
+  {
+    "pos": {
+      "x": -4946,
+      "y": -3,
+      "z": -609,
+      "world": "world"
+    },
+    "name": "Gravityblock Duper by Whitesheepexe",
+    "id": "waystone-c43a7d73-1f75-4cc2-b003-1d77bc8fb316",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": 6459,
+      "y": 27,
+      "z": -3950,
+      "world": "world"
+    },
+    "name": "Starsation Stronghold ✦",
+    "id": "waystone-f2f22a15-9b96-466e-b9b8-5c55a41543f1",
+    "owner": "29cefacd-7de2-4674-ad9f-16100edf6e2f",
+    "rngBlock": "TOTEM_OF_UNDYING"
+  },
+  {
+    "pos": {
+      "x": 3477,
+      "y": 79,
+      "z": 4270,
+      "world": "world"
+    },
+    "name": "HiHOFF",
+    "id": "waystone-44904505-e609-4a06-b16a-adfb2e9e0dfa",
+    "owner": "4420485e-74ed-4f74-8fff-ade06d6c12fe",
+    "rngBlock": "PRISMARINE_SHARD"
+  },
+  {
+    "pos": {
+      "x": -526,
+      "y": 120,
+      "z": 1318,
+      "world": "world"
+    },
+    "name": "P_Mirol's House",
+    "id": "waystone-8ddb823d-89ed-48d1-8827-e550853f5639",
+    "owner": "e6b24030-f937-4027-a1ff-b8d306560121",
+    "rngBlock": "LODESTONE"
+  },
+  {
+    "pos": {
+      "x": -18428,
+      "y": 65,
+      "z": 1162,
+      "world": "world"
+    },
+    "name": "DittoKap House",
+    "id": "waystone-f2b96ecc-827d-4320-82c0-cf43c62749e8",
+    "owner": "2d1c6f74-f83e-4f16-8e34-23bc5382aa8e",
+    "rngBlock": "CARVED_PUMPKIN"
+  },
+  {
+    "pos": {
+      "x": -914,
+      "y": 92,
+      "z": -4192,
+      "world": "world"
+    },
+    "name": "400k/h mob farm[nini team]",
+    "id": "waystone-5eb07868-7896-4ded-b500-38563fa0d2dc",
+    "owner": "ffc4def7-c628-41ad-ad12-9e775709e0e3",
+    "rngBlock": "DRAGON_EGG"
+  },
+  {
+    "pos": {
+      "x": -733,
+      "y": 45,
+      "z": -367,
+      "world": "world_nether"
+    },
+    "name": "Nether Site (Private)",
+    "id": "waystone-ee8443a1-af5e-4437-b0bb-92c10053c8fe",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -4352,
+      "y": 64,
+      "z": -8264,
+      "world": "world"
+    },
+    "name": "อ้ายมา4คน",
+    "id": "waystone-d9dd2b2e-9207-4fd1-af8f-da1dc121a221",
+    "owner": "f12eea0e-d97e-4eca-aa7c-4fc6e588e9e9",
+    "rngBlock": "NETHERITE_PICKAXE"
+  },
+  {
+    "pos": {
+      "x": -2495,
+      "y": -52,
+      "z": -5342,
+      "world": "world"
+    },
+    "name": "Warden",
+    "id": "waystone-6704b24d-774b-428c-b4d0-e535904c519a",
+    "owner": "9799ea8e-145a-48a7-858d-fde4a551f9de"
+  },
+  {
+    "pos": {
+      "x": -17161,
+      "y": 65,
+      "z": 11380,
+      "world": "world"
+    },
+    "name": "ChocoZz",
+    "id": "waystone-2a5ec374-07ea-4714-85e2-0dd1b8e9e9f7",
+    "owner": "9799ea8e-145a-48a7-858d-fde4a551f9de"
+  },
+  {
+    "pos": {
+      "x": 53977,
+      "y": 84,
+      "z": 363718,
+      "world": "world"
+    },
+    "name": "Free Village",
+    "id": "waystone-84b57c40-2482-44a1-9615-af459304a70e",
+    "owner": "f12eea0e-d97e-4eca-aa7c-4fc6e588e9e9"
+  },
+  {
+    "pos": {
+      "x": -560,
+      "y": 225,
+      "z": -216,
+      "world": "world_nether"
+    },
+    "name": "WFPrivate by OVR007x",
+    "id": "waystone-a350603f-c9e3-4dcd-b716-9b7e4e59ebd3",
+    "owner": "df7195c9-0e14-4020-b33b-33e4345ac47c"
+  },
+  {
+    "pos": {
+      "x": -33996,
+      "y": 60,
+      "z": -4775,
+      "world": "world_the_end"
+    },
+    "name": "don't come",
+    "id": "waystone-29bde3db-a379-4a00-9962-b5ad7283be09",
+    "owner": "f12eea0e-d97e-4eca-aa7c-4fc6e588e9e9"
+  },
+  {
+    "pos": {
+      "x": 16890,
+      "y": 48,
+      "z": 96565,
+      "world": "world_nether"
+    },
+    "name": "Backroom ( nether cord 16890 , 47 , 96564 )",
+    "id": "waystone-c704304c-a6bd-44f0-aa68-d501d060e48c",
+    "owner": "f12eea0e-d97e-4eca-aa7c-4fc6e588e9e9"
+  },
+  {
+    "pos": {
+      "x": 8444,
+      "y": 81,
+      "z": -280,
+      "world": "world"
+    },
+    "name": "LST",
+    "id": "waystone-02d9a1c3-b3e7-4716-ab7f-f57ae62b9f92",
+    "owner": "90bc59b1-2f03-45f8-8562-0a5228f5ab30"
+  },
+  {
+    "pos": {
+      "x": -7016,
+      "y": 144,
+      "z": -3133,
+      "world": "world"
+    },
+    "name": "<Sakura Factory>",
+    "id": "waystone-8c435895-cad1-475e-b327-f1d7210cb699",
+    "owner": "1fea351a-bd19-46d5-ab07-d23cb1865b2a",
+    "rngBlock": "CHERRY_SAPLING"
+  },
+  {
+    "pos": {
+      "x": 9243,
+      "y": 71,
+      "z": -185,
+      "world": "world"
+    },
+    "name": "LYN",
+    "id": "waystone-3479c835-f783-470e-ba2b-f8a6809c0662",
+    "owner": "779f16b5-4e52-4d99-9f1d-052b54b6126e"
+  },
+  {
+    "pos": {
+      "x": -4706,
+      "y": 69,
+      "z": -2981,
+      "world": "world"
+    },
+    "name": "Tropical",
+    "id": "waystone-9c16906e-2f96-4f72-be54-2c6fec319688",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -24080,
+      "y": -14,
+      "z": -6446,
+      "world": "world"
+    },
+    "name": "Waystone (-24080, -14, -6446)",
+    "id": "waystone-86d3029c-13b4-46be-8b12-9578da5a26f6",
+    "owner": "d2d65f0f-f9c3-464b-afef-72c72b446ec3"
+  },
+  {
+    "pos": {
+      "x": -847,
+      "y": 66,
+      "z": -5234,
+      "world": "world"
+    },
+    "name": "Squid",
+    "id": "waystone-d74107a3-b193-42d1-8253-eea81e89f4ca",
+    "owner": "4420485e-74ed-4f74-8fff-ade06d6c12fe",
+    "rngBlock": "INK_SAC"
+  },
+  {
+    "pos": {
+      "x": 1638,
+      "y": 76,
+      "z": -7078,
+      "world": "world"
+    },
+    "name": "PINKY LAND! หมู่บ้านหวานๆกับคนเหงาๆ",
+    "id": "waystone-4ce8e1ae-7678-4961-8870-b018b387aa00",
+    "owner": "30c401ef-5081-4ce4-841e-102c7034801c"
+  },
+  {
+    "pos": {
+      "x": 9823,
+      "y": 156,
+      "z": 2396,
+      "world": "world"
+    },
+    "name": "LYN",
+    "id": "waystone-6547ced9-5146-4f4b-94c9-1c0a9b8d41be",
+    "owner": "6bf98a98-1538-479a-b249-030d2dc167d3"
+  },
+  {
+    "pos": {
+      "x": 5680,
+      "y": 70,
+      "z": 3978,
+      "world": "world"
+    },
+    "name": "เกาะเพื่อนกัน",
+    "id": "waystone-e8d681c4-2d15-4931-b741-c57f85cb596b",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743"
+  },
+  {
+    "pos": {
+      "x": 8289,
+      "y": 87,
+      "z": -2826,
+      "world": "world"
+    },
+    "name": "The Piercer's Base [ PRIVATE ]",
+    "id": "waystone-1f422946-dcce-44e4-a953-8243c1931a06",
+    "owner": "29c30aae-2801-4abb-a235-276f70c20cdb",
+    "rngBlock": "NETHERITE_SWORD"
+  },
+  {
+    "pos": {
+      "x": -907,
+      "y": 73,
+      "z": 241,
+      "world": "world"
+    },
+    "name": "testing custom icon",
+    "id": "waystone-9de26332-cddd-4122-908a-c7439f6aebef",
+    "owner": "f2ebbd10-07ce-4ecf-8ea5-edd617e4c5c2"
+  },
+  {
+    "pos": {
+      "x": 1767,
+      "y": 161,
+      "z": -7827,
+      "world": "world"
+    },
+    "name": "FUCHSIA",
+    "id": "waystone-9cb53351-eceb-492c-bab9-7867818ad117",
+    "owner": "30c401ef-5081-4ce4-841e-102c7034801c"
+  },
+  {
+    "pos": {
+      "x": 3003,
+      "y": -7,
+      "z": -3662,
+      "world": "world"
+    },
+    "name": "6gt sandduper",
+    "id": "waystone-f1682229-8d9e-4615-856e-62504fa116b6",
+    "owner": "34733da6-ba0d-4cd9-ac66-7e084fc56ba0",
+    "rngBlock": "DRAGON_EGG"
+  },
+  {
+    "pos": {
+      "x": -1136,
+      "y": 122,
+      "z": 8684,
+      "world": "world"
+    },
+    "name": "S1GN4TURE",
+    "id": "waystone-e19c01aa-7429-4811-a324-19713d3d3a8c",
+    "owner": "f177509a-da35-4ccf-a5ba-7bf70110a63d"
+  },
+  {
+    "pos": {
+      "x": -23595,
+      "y": 66,
+      "z": -3669,
+      "world": "world"
+    },
+    "name": "Waystone (-23595, 66, -3669)",
+    "id": "waystone-adf3c7f3-bb4e-4f84-af08-f4e6b54e6ec8",
+    "owner": "d2d65f0f-f9c3-464b-afef-72c72b446ec3"
+  },
+  {
+    "pos": {
+      "x": -64,
+      "y": 157,
+      "z": -30,
+      "world": "world"
+    },
+    "name": "Westy's Base New Owner : Starsation ✦",
+    "id": "waystone-a6e8d57f-b211-4529-968b-122f51ca2d61",
+    "owner": "29cefacd-7de2-4674-ad9f-16100edf6e2f",
+    "rngBlock": "BONE"
+  },
+  {
+    "pos": {
+      "x": 1760,
+      "y": 64,
+      "z": 1119,
+      "world": "world"
+    },
+    "name": "East Coast",
+    "id": "waystone-dcc2e0bf-736d-421c-9e96-b0ca7d1a643c",
+    "owner": "d67f9448-0ef3-4c48-980b-3469d298d608",
+    "rngBlock": "JUNGLE_SAPLING"
+  },
+  {
+    "pos": {
+      "x": 10115,
+      "y": 65,
+      "z": -2798,
+      "world": "world"
+    },
+    "name": "thetoy323 Ice Lake",
+    "id": "waystone-50522a7d-a1f3-4144-85b2-e5e4baa89448",
+    "owner": "d67f9448-0ef3-4c48-980b-3469d298d608",
+    "rngBlock": "ICE"
+  },
+  {
+    "pos": {
+      "x": -10012,
+      "y": 106,
+      "z": -10056,
+      "world": "world"
+    },
+    "name": "Spawn@2",
+    "id": "waystone-37a5d8c9-ec70-4a47-bc24-99794a522ed1",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743",
+    "rngBlock": "WHITE_SHULKER_BOX"
+  },
+  {
+    "pos": {
+      "x": -1233,
+      "y": 130,
+      "z": 49,
+      "world": "world_nether"
+    },
+    "name": "porklin (Private)",
+    "id": "waystone-08c139b1-405c-4484-93be-c5d470ceb61d",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -452,
+      "y": 130,
+      "z": -541,
+      "world": "world_nether"
+    },
+    "name": "Froglight (Private)",
+    "id": "waystone-57b0968e-9bf2-49ff-86f2-56626b78a030",
+    "owner": "261437ac-a1a6-4ff3-bf9e-f95a367667b7",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": 2949,
+      "y": 64,
+      "z": 1836,
+      "world": "world"
+    },
+    "name": "MONGKOL_TH's NPC Trading Center(UnderContruction)",
+    "id": "waystone-b341379a-c65d-4e48-bfd5-35e8e6d97b12",
+    "owner": "3973fbd5-f06f-4961-94d7-7b1f49048eec",
+    "rngBlock": "EMERALD"
+  },
+  {
+    "pos": {
+      "x": -951,
+      "y": 79,
+      "z": 108,
+      "world": "world"
+    },
+    "name": "จุด (-951, 79, 108)",
+    "id": "waystone-c95514dc-25ce-4910-9b87-aa09fbc0f065",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743",
+    "rngBlock": "NETHERITE_INGOT"
+  },
+  {
+    "pos": {
+      "x": -1056,
+      "y": 76,
+      "z": 33,
+      "world": "world"
+    },
+    "name": "จุด (-1056, 76, 33)",
+    "id": "waystone-9be576c1-0925-483f-a1da-e65b495106e8",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743",
+    "rngBlock": "IRON_SWORD"
+  },
+  {
+    "pos": {
+      "x": 6784,
+      "y": 110,
+      "z": -5126,
+      "world": "world"
+    },
+    "name": "จุด (6784, 110, -5126)",
+    "id": "waystone-c1201760-fc8d-4a9d-bf0b-ffa355e38fee",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743",
+    "rngBlock": "DIAMOND"
+  },
+  {
+    "pos": {
+      "x": -3061,
+      "y": 92,
+      "z": -5413,
+      "world": "world"
+    },
+    "name": "MoMo",
+    "id": "waystone-86cb3d35-fc20-4a93-926f-89fb8156ab5a",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -23094,
+      "y": 73,
+      "z": 1362,
+      "world": "world"
+    },
+    "name": "kee",
+    "id": "waystone-bbb968b8-a143-46cf-b475-e8b6b0ecdc92",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -2241,
+      "y": 87,
+      "z": -261,
+      "world": "world"
+    },
+    "name": "VILGAX City",
+    "id": "waystone-a24990e2-e4c0-4f8e-a276-083e5f8b7db5",
+    "owner": "20fbab13-dc0d-48b9-8304-7df894c27ef6",
+    "rngBlock": "ENCHANTED_GOLDEN_APPLE"
+  },
+  {
+    "pos": {
+      "x": 2538,
+      "y": 88,
+      "z": 1985,
+      "world": "world"
+    },
+    "name": "LayBrex Room",
+    "id": "waystone-8a51a7cb-ea68-47d6-b06e-e3a9d28be615",
+    "owner": "3973fbd5-f06f-4961-94d7-7b1f49048eec",
+    "rngBlock": "TURTLE_EGG"
+  },
+  {
+    "pos": {
+      "x": 830,
+      "y": 129,
+      "z": 233,
+      "world": "world"
+    },
+    "name": "JPPT",
+    "id": "waystone-8c9e03c9-8054-4845-8b14-4d0d3f2ae2ce",
+    "owner": "83582540-16bf-4c7f-aa3a-b9acbc637c54",
+    "rngBlock": "NETHERITE_SWORD"
+  },
+  {
+    "pos": {
+      "x": 3265,
+      "y": 71,
+      "z": 1744,
+      "world": "world"
+    },
+    "name": "raid stacking farm",
+    "id": "waystone-c99987e2-904c-4800-b7e2-f37eabcee2be",
+    "owner": "3973fbd5-f06f-4961-94d7-7b1f49048eec",
+    "rngBlock": "EMERALD"
+  },
+  {
+    "pos": {
+      "x": 2581,
+      "y": 67,
+      "z": 10163,
+      "world": "world"
+    },
+    "name": "Slime Farm(Private)",
+    "id": "waystone-321e6d64-b3b8-41a0-87a0-72f96490543c",
+    "owner": "bb96a20a-4600-4647-8dac-be1e432f8e9a",
+    "rngBlock": "SLIME_BALL"
+  },
+  {
+    "pos": {
+      "x": -20603,
+      "y": 150,
+      "z": -3642,
+      "world": "world"
+    },
+    "name": "ZenoKingZ [Private]",
+    "id": "waystone-8319e56f-2994-44da-affd-0ee07d49e448",
+    "owner": "d2d65f0f-f9c3-464b-afef-72c72b446ec3"
+  },
+  {
+    "pos": {
+      "x": 2489,
+      "y": 146,
+      "z": 2558,
+      "world": "world"
+    },
+    "name": "จุด (2489, 146, 2558)",
+    "id": "waystone-4ef4d4d9-b972-4212-a566-88d9a9ddf3a5",
+    "owner": "e2ec0828-bcc4-4774-9523-38d46bc2175d",
+    "rngBlock": "EMERALD"
+  },
+  {
+    "pos": {
+      "x": -8222,
+      "y": 65,
+      "z": -9326,
+      "world": "world"
+    },
+    "name": "John Raid Farm (Private ห้ามขโมย)",
+    "id": "waystone-2f6ed3b8-4f19-4007-846b-0aab9a95067f",
+    "owner": "2c719539-962f-41cb-afc0-8ee95fbc3107"
+  },
+  {
+    "pos": {
+      "x": -18525,
+      "y": 66,
+      "z": 3125,
+      "world": "world"
+    },
+    "name": "eroyEE",
+    "id": "waystone-15474452-c150-4c2f-8594-d22751357131",
+    "owner": "261437ac-a1a6-4ff3-bf9e-f95a367667b7",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -1921,
+      "y": 130,
+      "z": -320,
+      "world": "world_nether"
+    },
+    "name": "Magma Farm(PRIVATE)",
+    "id": "waystone-6c96d47f-0337-447e-853b-9259b0b14e02",
+    "owner": "83582540-16bf-4c7f-aa3a-b9acbc637c54",
+    "rngBlock": "MAGMA_BLOCK"
+  },
+  {
+    "pos": {
+      "x": 800,
+      "y": 174,
+      "z": -3852,
+      "world": "world"
+    },
+    "name": "pillager village",
+    "id": "waystone-136b153a-f097-4310-9107-80d72d141208",
+    "owner": "2c719539-962f-41cb-afc0-8ee95fbc3107"
+  },
+  {
+    "pos": {
+      "x": 1308,
+      "y": 70,
+      "z": 10239,
+      "world": "world"
+    },
+    "name": "Raid farm(Private)",
+    "id": "waystone-f15861e3-eab3-4d33-a70a-403b6fadf883",
+    "owner": "bb96a20a-4600-4647-8dac-be1e432f8e9a",
+    "rngBlock": "DIAMOND"
+  },
+  {
+    "pos": {
+      "x": -10855,
+      "y": 67,
+      "z": -12825,
+      "world": "world"
+    },
+    "name": "Slime Farm By Mamuang_Kun (PV)",
+    "id": "waystone-41c5a590-c04f-4e72-aa56-8756f94ff05e",
+    "owner": "1fea351a-bd19-46d5-ab07-d23cb1865b2a",
+    "rngBlock": "SLIME_BLOCK"
+  },
+  {
+    "pos": {
+      "x": -1531,
+      "y": 46,
+      "z": -1011,
+      "world": "world_nether"
+    },
+    "name": "Farm Blaze [Private]",
+    "id": "waystone-5e5cabbd-6be7-44b1-a360-b4182c342313",
+    "owner": "5c3499c8-ba86-4634-9d67-962eb9712794",
+    "rngBlock": "BLAZE_ROD"
+  },
+  {
+    "pos": {
+      "x": -164,
+      "y": 64,
+      "z": 3739,
+      "world": "world"
+    },
+    "name": "Deep Domain",
+    "id": "waystone-c1f6cf0a-72bc-4307-a5d4-2f7fd9e82480",
+    "owner": "4bbe8b10-82d9-40f0-b6d0-a9b377efaf97",
+    "rngBlock": "DEEPSLATE_TILES"
+  },
+  {
+    "pos": {
+      "x": -8276,
+      "y": 198,
+      "z": -651,
+      "world": "world_nether"
+    },
+    "name": "Winter",
+    "id": "waystone-3ebe78e2-d246-4f16-a02d-1ac1b7f1a058",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": 137,
+      "y": 69,
+      "z": -5294,
+      "world": "world"
+    },
+    "name": "Warm Ocean",
+    "id": "waystone-2b16fc1c-4dc0-4d46-bc30-846c34642624",
+    "owner": "261437ac-a1a6-4ff3-bf9e-f95a367667b7",
+    "rngBlock": "MUSIC_DISC_STAL"
+  },
+  {
+    "pos": {
+      "x": -5509,
+      "y": 72,
+      "z": 1040,
+      "world": "world"
+    },
+    "name": "REMHOME[private]",
+    "id": "waystone-6844740b-7bc1-412a-a39f-d69173a7d997",
+    "owner": "e4eeea9e-9e41-4ef2-a44a-bbc35f6a13f9",
+    "rngBlock": "GLASS"
+  },
+  {
+    "pos": {
+      "x": -15716,
+      "y": 75,
+      "z": 3492,
+      "world": "world"
+    },
+    "name": "circle desert",
+    "id": "waystone-de107b31-b0c1-4005-acf2-abfc4baa147a",
+    "owner": "261437ac-a1a6-4ff3-bf9e-f95a367667b7",
+    "rngBlock": "MUSIC_DISC_STAL"
+  },
+  {
+    "pos": {
+      "x": -31325,
+      "y": 61,
+      "z": -5723,
+      "world": "world_the_end"
+    },
+    "name": "Shulker",
+    "id": "waystone-245253fd-e4c5-4862-8b1b-7acc62cc9544",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": -9567,
+      "y": 135,
+      "z": -8928,
+      "world": "world"
+    },
+    "name": "จุด (-9567, 135, -8928)",
+    "id": "waystone-fd4b2780-04d0-4df4-9c82-722ffbf303cc",
+    "owner": "2c719539-962f-41cb-afc0-8ee95fbc3107",
+    "rngBlock": "COAL"
+  },
+  {
+    "pos": {
+      "x": 6913,
+      "y": 64,
+      "z": 2655,
+      "world": "world"
+    },
+    "name": "Home FocusPT Ocean",
+    "id": "waystone-b44b5b4d-0c48-49be-b63b-ed44e94a66e7",
+    "owner": "5c3499c8-ba86-4634-9d67-962eb9712794",
+    "rngBlock": "TRIDENT"
+  },
+  {
+    "pos": {
+      "x": 54,
+      "y": 147,
+      "z": 239,
+      "world": "world"
+    },
+    "name": "Battle Tournament PvP [ยังไม่เปิด]",
+    "id": "waystone-6df632b4-cf48-4c42-9ff4-dfc22e09c6e1",
+    "owner": "5c3499c8-ba86-4634-9d67-962eb9712794",
+    "rngBlock": "NETHERITE_SWORD"
+  },
+  {
+    "pos": {
+      "x": 6173,
+      "y": 70,
+      "z": -57,
+      "world": "world"
+    },
+    "name": "ultimate tree",
+    "id": "waystone-3739056e-6806-4090-ab8d-5d590dbf288e",
+    "owner": "ffc4def7-c628-41ad-ad12-9e775709e0e3",
+    "rngBlock": "DRAGON_EGG"
+  },
+  {
+    "pos": {
+      "x": -5285,
+      "y": 64,
+      "z": 1712,
+      "world": "world"
+    },
+    "name": "ramraidfarm[private]",
+    "id": "waystone-7b12d800-e715-478c-ac7a-7f87086bef34",
+    "owner": "e4eeea9e-9e41-4ef2-a44a-bbc35f6a13f9",
+    "rngBlock": "TOTEM_OF_UNDYING"
+  },
+  {
+    "pos": {
+      "x": 3010,
+      "y": 65,
+      "z": -1268,
+      "world": "world"
+    },
+    "name": "ninikyssBSPsansan",
+    "id": "waystone-a8d9891d-2403-454c-ae49-43acf237608d",
+    "owner": "ffc4def7-c628-41ad-ad12-9e775709e0e3",
+    "rngBlock": "DRAGON_EGG"
+  },
+  {
+    "pos": {
+      "x": -39186,
+      "y": 61,
+      "z": -5039,
+      "world": "world_the_end"
+    },
+    "name": "sb",
+    "id": "waystone-74f6e86a-dca7-4a06-baa5-0ac051a54d67",
+    "owner": "e4eeea9e-9e41-4ef2-a44a-bbc35f6a13f9",
+    "rngBlock": "SHULKER_SHELL"
+  },
+  {
+    "pos": {
+      "x": -8530,
+      "y": 75,
+      "z": -3698,
+      "world": "world"
+    },
+    "name": "Frozen Ocean",
+    "id": "waystone-3754cce6-78d4-40c8-be67-3f219a8be62f",
+    "owner": "261437ac-a1a6-4ff3-bf9e-f95a367667b7",
+    "rngBlock": "PACKED_ICE"
+  },
+  {
+    "pos": {
+      "x": -1327,
+      "y": 130,
+      "z": -753,
+      "world": "world_nether"
+    },
+    "name": "Lastwaystone",
+    "id": "waystone-3cfe3320-c083-4e65-9022-1858c2ad0e22",
+    "owner": "3fab1f4f-bd25-4ce8-b068-76346a36fd2b",
+    "rngBlock": "MUSIC_DISC_STRAD"
+  },
+  {
+    "pos": {
+      "x": 1680,
+      "y": 69,
+      "z": -5475,
+      "world": "world"
+    },
+    "name": "John Village (Private)",
+    "id": "waystone-96f1ed2d-6740-466b-b5b1-af06c4f3d1d9",
+    "owner": "00000000-0000-0000-0009-01f48854bce5",
+    "rngBlock": "IRON_AXE"
+  },
+  {
+    "pos": {
+      "x": 58997,
+      "y": 201,
+      "z": -6875,
+      "world": "world"
+    },
+    "name": "Johny John(Private)",
+    "id": "waystone-d3a89167-83ff-401b-86e7-fbb300ee58b9",
+    "owner": "2c719539-962f-41cb-afc0-8ee95fbc3107",
+    "rngBlock": "TRIDENT"
+  },
+  {
+    "pos": {
+      "x": 480023,
+      "y": 69,
+      "z": 480060,
+      "world": "world"
+    },
+    "name": "480k",
+    "id": "waystone-22bcb378-de84-4a42-ab1e-0dd7a1ad8fd5",
+    "owner": "69ca3efd-f59f-4bca-a874-642991807743"
+  },
+  {
+    "pos": {
+      "x": -1333,
+      "y": 130,
+      "z": -279,
+      "world": "world_nether"
+    },
+    "name": "gold farm",
+    "id": "waystone-c2fee1c9-e825-43e6-bd56-ca871e6ae802",
+    "owner": "bd9210c1-67c7-426f-ad80-b4ae4e482e10",
+    "rngBlock": "RAW_GOLD"
+  },
+  {
+    "pos": {
+      "x": -10638,
+      "y": 305,
+      "z": -1408,
+      "world": "world"
+    },
+    "name": "gold farm",
+    "id": "waystone-a7a26673-2279-44d3-9f28-b01803e68cb8",
+    "owner": "bd9210c1-67c7-426f-ad80-b4ae4e482e10",
+    "rngBlock": "GOLD_INGOT"
+  },
+  {
+    "pos": {
+      "x": -897,
+      "y": 65,
+      "z": -6434,
+      "world": "world"
+    },
+    "name": "Home BNG Studio",
+    "id": "waystone-d526c35e-2881-4466-9b7f-4da933af0d95",
+    "owner": "6892e839-b86b-4da1-85f1-8c7c4cfd3af0",
+    "rngBlock": "END_CRYSTAL"
+  },
+  {
+    "pos": {
+      "x": -5836,
+      "y": 82,
+      "z": 2222,
+      "world": "world"
+    },
+    "name": "RAID V2",
+    "id": "waystone-29860285-bc82-409f-b092-0ee6e7fd79e1",
+    "owner": "ffc4def7-c628-41ad-ad12-9e775709e0e3",
+    "rngBlock": "EMERALD_BLOCK"
+  },
+  {
+    "pos": {
+      "x": -5274,
+      "y": 189,
+      "z": 2246,
+      "world": "world"
+    },
+    "name": "raid farm v3",
+    "id": "waystone-11632a93-1787-4f43-9f49-1c90b5339a1f",
+    "owner": "e4eeea9e-9e41-4ef2-a44a-bbc35f6a13f9",
+    "rngBlock": "TOTEM_OF_UNDYING"
+  },
+  {
+    "pos": {
+      "x": 2662,
+      "y": 75,
+      "z": -364,
+      "world": "world"
+    },
+    "name": "Linjeewe",
+    "id": "waystone-d901b378-42c7-4415-825f-488990e02dc4",
+    "owner": "b977373a-a5fb-4acf-a842-4682e95f521f"
+  },
+  {
+    "pos": {
+      "x": -428,
+      "y": 118,
+      "z": 35,
+      "world": "world_nether"
+    },
+    "name": "barther",
+    "id": "waystone-fc937a83-da51-430a-b0e5-c2285bc6ab6d",
+    "owner": "34733da6-ba0d-4cd9-ac66-7e084fc56ba0",
+    "rngBlock": "GOLD_NUGGET"
+  },
+  {
+    "pos": {
+      "x": -2112,
+      "y": 130,
+      "z": 2512,
+      "world": "world_nether"
+    },
+    "name": "GoldFarm[PRIVATE]",
+    "id": "waystone-ca2d1655-7c4e-4f75-a7ff-9723d5b79fae",
+    "owner": "83582540-16bf-4c7f-aa3a-b9acbc637c54",
+    "rngBlock": "GOLD_BLOCK"
+  },
+  {
+    "pos": {
+      "x": 100,
+      "y": 41,
+      "z": -33,
+      "world": "world_the_end"
+    },
+    "name": "confac",
+    "id": "waystone-5bc58397-7693-4999-8435-e92e1bbca154",
+    "owner": "34733da6-ba0d-4cd9-ac66-7e084fc56ba0",
+    "rngBlock": "DRAGON_EGG"
+  },
+  {
+    "pos": {
+      "x": -3631,
+      "y": 67,
+      "z": 4752,
+      "world": "world"
+    },
+    "name": "coral",
+    "id": "waystone-f01fb10c-83e2-4d29-806d-9b0c40c9ad4b",
+    "owner": "bd9210c1-67c7-426f-ad80-b4ae4e482e10"
+  },
+  {
+    "pos": {
+      "x": -1631,
+      "y": 68,
+      "z": 23818,
+      "world": "world"
+    },
+    "name": "BeemmyZ's HOME!!",
+    "id": "waystone-92984da5-0c09-4e2e-8cc7-69648c5a7c3c",
+    "owner": "f9f19f9d-353a-4921-8c54-9da77d8b0211",
+    "rngBlock": "HEART_OF_THE_SEA"
+  },
+  {
+    "pos": {
+      "x": 2529,
+      "y": 79,
+      "z": -8704,
+      "world": "world"
+    },
+    "name": "BIG SLIME",
+    "id": "waystone-213e0f78-817f-47e0-b270-1063dfe3f9a9",
+    "owner": "ffc4def7-c628-41ad-ad12-9e775709e0e3",
+    "rngBlock": "REPEATING_COMMAND_BLOCK"
+  },
+  {
+    "pos": {
+      "x": 11092,
+      "y": 69,
+      "z": -2546,
+      "world": "world"
+    },
+    "name": "SlnxZens HOme",
+    "id": "waystone-9cf2e005-b823-4b17-a3e4-599b57c9cdfa",
+    "owner": "2ada691b-2ab3-4bc4-b2a8-02723a48d17f"
+  },
+  {
+    "pos": {
+      "x": -1107,
+      "y": 69,
+      "z": -6206,
+      "world": "world"
+    },
+    "name": "จุด (-1107, 69, -6206)",
+    "id": "waystone-905d9b81-3510-40fe-b1ab-feddc18dc810",
+    "owner": "cb3192dc-9c08-44bd-8ba1-eda05f0e97d2",
+    "rngBlock": "QUARTZ"
+  },
+  {
+    "pos": {
+      "x": -625,
+      "y": 41,
+      "z": -170,
+      "world": "world_nether"
+    },
+    "name": "Wither Skeleton Farm[PRIVATE]",
+    "id": "waystone-dcaf50f5-a0a0-4ac8-842f-d8d4041fed0f",
+    "owner": "674e7764-740f-47a8-9c8a-7364030de078",
+    "rngBlock": "NETHERITE_SWORD"
+  },
+  {
+    "pos": {
+      "x": -5446,
+      "y": 97,
+      "z": 618,
+      "world": "world"
+    },
+    "name": "Ride",
+    "id": "waystone-3f1f6f8b-1029-41db-b145-c15372b7b1cc",
+    "owner": "bd9210c1-67c7-426f-ad80-b4ae4e482e10"
+  },
+  {
+    "pos": {
+      "x": -35,
+      "y": 177,
+      "z": -96,
+      "world": "world"
+    },
+    "name": "Hynse Center Shop",
+    "id": "waystone-41aeb1a9-0289-4dda-9aa3-868e28d9d05b",
+    "owner": "5c3499c8-ba86-4634-9d67-962eb9712794",
+    "rngBlock": "DIAMOND_BLOCK"
+  },
+  {
+    "pos": {
+      "x": 228,
+      "y": 50,
+      "z": -2,
+      "world": "world_the_end"
+    },
+    "name": "Enderman Farm",
+    "id": "waystone-4c6a44d1-fec5-4edf-9c39-ccffaf52f722",
+    "owner": "83582540-16bf-4c7f-aa3a-b9acbc637c54",
+    "rngBlock": "ENDER_PEARL"
+  },
+  {
+    "pos": {
+      "x": -19062,
+      "y": 64,
+      "z": 1432,
+      "world": "world"
+    },
+    "name": "DittoKap Raid Fram (Private)",
+    "id": "waystone-fcae1166-4360-4510-b8f3-2abb183406fb",
+    "owner": "2d1c6f74-f83e-4f16-8e34-23bc5382aa8e"
+  },
+  {
+    "pos": {
+      "x": 3209,
+      "y": 74,
+      "z": 385,
+      "world": "world"
+    },
+    "name": "บ้านสุดหล่อ",
+    "id": "waystone-b4d4dd7f-be1b-4452-95f1-f592006ac4b5",
+    "owner": "9fcdce06-35e7-4f48-a111-554ce2270d03",
+    "rngBlock": "WHITE_WOOL"
+  },
+  {
+    "pos": {
+      "x": 11992,
+      "y": 201,
+      "z": 15903,
+      "world": "world"
+    },
+    "name": "sliume121212121212",
+    "id": "waystone-472cd454-c7ce-4e86-8d8e-ef0c8cb98b83",
+    "owner": "7c649b82-9c26-4bf3-8ce5-b8a92e3d2479"
+  },
+  {
+    "pos": {
+      "x": -4820,
+      "y": 65,
+      "z": 4588,
+      "world": "world"
+    },
+    "name": "จุด (-4820, 65, 4588)",
+    "id": "waystone-11c5444c-b3e1-46d7-b0af-5ada7d75d8cf",
+    "owner": "9b7402f9-bcaa-4db7-8b32-da581d2f0ec1",
+    "rngBlock": "COPPER_INGOT"
+  },
+  {
+    "pos": {
+      "x": -3876,
+      "y": 75,
+      "z": 4347,
+      "world": "world"
+    },
+    "name": "จุด (-3876, 75, 4347)",
+    "id": "waystone-506308f4-c9eb-4303-a812-1364adf0d779",
+    "owner": "7c649b82-9c26-4bf3-8ce5-b8a92e3d2479",
+    "rngBlock": "LAPIS_LAZULI"
+  },
+  {
+    "pos": {
+      "x": -9119,
+      "y": 155,
+      "z": -8705,
+      "world": "world"
+    },
+    "name": "<Osaka Village>",
+    "id": "waystone-96da985f-94b7-49af-9bbb-63eaf3ffdd85",
+    "owner": "1fea351a-bd19-46d5-ab07-d23cb1865b2a",
+    "rngBlock": "PINK_PETALS"
+  }
+]
