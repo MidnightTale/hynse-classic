@@ -88,7 +88,7 @@ async def convert_to_markdown(waystones_data):
     return markdown_content
 
 try:
-    with open(r'C:\Users\mid\Desktop\bruh\minecraft\vanilla\plugins\WayStones\waystones.json', 'r', encoding='utf-8') as json_file:
+    with open(r'./waystones.json', 'r', encoding='utf-8') as json_file:
         waystones_data = json.load(json_file)
 
     loop = asyncio.get_event_loop()
